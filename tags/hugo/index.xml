@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>hugo on STRI-CON</title>
-    <link>https://stri-con.github.io/tags/hugo/</link>
+    <link>/tags/hugo/</link>
     <description>Recent content in hugo on STRI-CON</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Sebastian Pech</copyright>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://stri-con.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://stri-con.github.io/2014/04/getting-started-with-hugo/</link>
+      <link>/2014/04/getting-started-with-hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://stri-con.github.io/2014/04/getting-started-with-hugo/</guid>
+      <guid>/2014/04/getting-started-with-hugo/</guid>
       <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
 Save it somewhere specific as we will be using it in the next step.
 More complete instructions are available at Install Hugo
